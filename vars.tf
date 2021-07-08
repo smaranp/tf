@@ -1,6 +1,6 @@
-variable v_subnet_ids{
+variable "v_subnet_ids" {
 	type="list"
 }
-variable v_env{
+variable "v_env"{
 
 }
